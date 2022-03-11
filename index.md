@@ -5,7 +5,7 @@
 ## Quick facts about me
 * I am not a stats major
 * I am on my last semester of uni
-* I like data
+* I like data (kind of)
 
 *So, this meme sums me up in a nutshell pretty well*
 
