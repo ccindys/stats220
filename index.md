@@ -1,4 +1,4 @@
-# Experience the Japanese anime food culture
+# Welcome to my Assignment 1 website!
 
 ![](https://media.giphy.com/media/cEsoz6GAoTubm/giphy.gif)
 
