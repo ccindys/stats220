@@ -14,3 +14,6 @@
 ### Can you guess what my major is?
 I major in F _ _ _ S _ _ _ _ _ _ 🍔
 
+## YAM (Yet Another Meme)
+
+![](my_meme.png)
