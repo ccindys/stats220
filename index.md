@@ -11,9 +11,8 @@
 
 ![](http://www.quickmeme.com/img/d4/d4473bf4ec5e6a8fbd87d6c20edc30f9859a97f2100753060ad0b81cdda7c085.jpg)
 
-### Can you guess what my major is?
-I major in F _ _ _ S _ _ _ _ _ _ 🍔
 
 ## YAM (Yet Another Meme)
+This is the meme I created using the ```R``` package <a href = "https://cran.r-project.org/web/packages/magick/vignettes/intro.html"> magick</a>.
 
 ![](my_meme.png)
