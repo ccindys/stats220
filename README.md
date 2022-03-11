@@ -1,4 +1,4 @@
-# STATS220 🌿
+# Hello there 🌿
 
 This is my repo for **STATS 220** related content, including assignments and *etc.*
 
