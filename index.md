@@ -86,7 +86,7 @@ image_write(meme, "my_meme.png")
 A short story about how I came up with the idea behind this meme is:
 1. I always liked self-deprecating memes about programmers and coding (even without much programming experience, the memes are somehow still relatable and funny).
 2. Having a direction to go (which was the self-deprecation theme) and having found a <a href = "https://starecat.com/doge-coding-python-synthax-error/">meme format</a> that suits what I had in mind, I opened RStudio to execute my meme.
-3. Turns out the programming deity really did hate me (jk) and my nightmares turned into reality (problems with the ```image_annotate()``` function).
-4. So, I added some dialogue boxes into my meme to express what was in my thoughts.
+3. Turns out the programming deity really wanted to stir trouble and my nightmares turned into reality (problems with the ```image_annotate()``` function).
+4. So, I added some dialogue boxes into my meme to express what was in my thoughts at that point🙀.
 5. That's how I came up with this meme!
 ![](https://i.pinimg.com/originals/18/13/f8/1813f88a0741a57c507831eeac3fe9dd.png)
